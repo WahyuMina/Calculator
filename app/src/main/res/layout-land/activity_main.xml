@@ -179,7 +179,7 @@
             <Button
                 android:id="@+id/btn_kali" style="@style/OpBtn"
                 android:layout_columnWeight="1" android:layout_rowWeight="1"
-                android:text="x" />
+                android:text="×" />
             <Button
                 android:id="@+id/btn_4" style="@style/NumBtn"
                 android:layout_columnWeight="1" android:layout_rowWeight="1"
