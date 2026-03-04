@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+    <style name="SciBtn" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+    </style>
+
+    <style name="NumBtn" parent="SciBtn">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="rippleColor">@android:color/transparent</item>
+    </style>
+
+    <style name="OpBtn" parent="SciBtn">
+        <item name="android:textColor">@color/vibrant_orange</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="Base.Theme.Calculator"
+        parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.Calculator" parent="Base.Theme.Calculator" />
+</resources>
