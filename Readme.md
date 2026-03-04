@@ -19,7 +19,7 @@ Aplikasi kalkulator yang ringan dan responsif, dirancang khusus untuk platform A
 
 ## Download
 
-Anda dapat mengunduh versi stabil terbaru aplikasi ini melalui halaman [Release](https://github.com/WahyuMina/Calculator/releases/tag/v1.0.0).
+Anda dapat mengunduh versi stabil terbaru aplikasi ini melalui halaman [Release](https://github.com/WahyuMina/Calculator/releases/tag/v1.0.1).
 
 1. Unduh file **Calculator.apk**.
 2. Buka file tersebut di perangkat Android Anda.
