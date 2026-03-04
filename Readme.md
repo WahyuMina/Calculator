@@ -1,26 +1,26 @@
-# Scientific Calculator Android
+# Kalkulator Scientific Android
 
-A clean, responsive scientific calculator built for Android. This application provides a seamless transition between basic arithmetic and advanced scientific functions through screen orientation logic.
+Aplikasi kalkulator yang ringan dan responsif, dirancang khusus untuk platform Android. Proyek ini menghadirkan transisi yang mulus antara kalkulasi aritmatika dasar dan fungsi ilmiah (scientific) tingkat lanjut melalui logika orientasi layar yang dinamis.
 
-## Features
+## Fitur Utama
 
-- **Dynamic Layout**: Automatically switches between a minimalist portrait view for basic tasks and a comprehensive landscape view for scientific calculations.
-- **Scientific Engine**: Supports trigonometry (Sin, Cos, Tan), Logarithms, Square Roots, Factorials, and Power functions.
-- **Calculation History**: Integrated history log to track previous operations without cluttering the main display.
-- **Precision Formatting**: Automatic thousand separators and localized decimal handling for improved readability.
-- **State Persistence**: Transfers current input data between portrait and landscape modes seamlessly.
+* **Layout Dinamis**: Secara otomatis beralih antara tampilan potret minimalis untuk tugas dasar dan tampilan lanskap komprehensif untuk perhitungan ilmiah.
+* **Mesin Scientific**: Mendukung operasi trigonometri (Sin, Cos, Tan), Logaritma, Akar Kuadrat, Faktorial, dan fungsi Pangkat.
+* **Riwayat Perhitungan**: Log riwayat terintegrasi untuk melacak operasi sebelumnya tanpa mengganggu tampilan layar utama.
+* **Format Presisi**: Pemisah ribuan otomatis dan penanganan desimal lokal untuk meningkatkan keterbacaan angka.
+* **Persistensi Data**: Mentransfer data input saat ini antara mode potret dan lanskap secara instan tanpa kehilangan progres.
 
-## Technical Stack
+## Tech Stack
 
-- **Language**: Java
-- **Architecture**: Object-Oriented Programming with a strong emphasis on Inheritance (Extending Base Activity for shared logic).
-- **UI Components**: XML Layouts using dynamic weighting for multi-screen compatibility.
-- **Minimum SDK**: API 24+ (Android 7.0)
+* **Bahasa**: Java
+* **Arsitektur**: Pemrograman Berorientasi Objek (OOP) dengan penekanan kuat pada *Inheritance* (Menggunakan Base Activity untuk logika bersama).
+* **Komponen UI**: XML Layout dengan sistem *dynamic weighting* untuk kompatibilitas di berbagai ukuran layar.
+* **Minimum SDK**: API 24+ (Android 7.0)
 
 ## Download
 
-You can download the latest stable version of the application from the [Releases](https://github.com/WahyuMina/Calculator/releases/tag/v1.0.0) page.
+Anda dapat mengunduh versi stabil terbaru aplikasi ini melalui halaman [Release](https://github.com/WahyuMina/Calculator/releases/tag/v1.0.0).
 
-1. Download the `Calculator.apk`.
-2. Open the file on your Android device.
-3. Allow installation from unknown sources if prompted.
+1. Unduh file **Calculator.apk**.
+2. Buka file tersebut di perangkat Android Anda.
+3. Izinkan instalasi dari "Sumber Tidak Dikenal" (Unknown Sources) jika diminta oleh sistem.
