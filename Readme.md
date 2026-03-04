@@ -19,6 +19,8 @@ A clean, responsive scientific calculator built for Android. This application pr
 
 ## Download
 
+You can download the latest stable version of the application from the [Releases](https://github.com/WahyuMina/Calculator/releases/tag/v1.0.0) page.
+
 1. Download the `app-debug.apk` (or your renamed APK).
 2. Open the file on your Android device.
 3. Allow installation from unknown sources if prompted.
