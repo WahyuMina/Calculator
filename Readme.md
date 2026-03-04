@@ -1,4 +1,4 @@
-# Kalkulator Scientific Android
+# Kalkulator Scientific Android 
 
 Aplikasi kalkulator yang ringan dan responsif, dirancang khusus untuk platform Android. Proyek ini menghadirkan transisi yang mulus antara kalkulasi aritmatika dasar dan fungsi ilmiah (scientific) tingkat lanjut melalui logika orientasi layar yang dinamis.
 
